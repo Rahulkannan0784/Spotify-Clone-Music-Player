@@ -2,6 +2,8 @@
 
 This is a simple Spotify clone music player created using HTML, CSS, and JavaScript.
 
+![Spotify Clone Music Player Output](Screenshot.png)
+
 ## Features
 - Play/pause music
 - Skip to next/previous track
@@ -16,8 +18,6 @@ This is a simple Spotify clone music player created using HTML, CSS, and JavaScr
 ## Getting Started
 To run the music player, simply open the `index.html` file in your web browser.
 
-## Output Image
-![Spotify Clone Music Player Output](path_to_your_output_image)
 
 ## Website Link
 [Live Demo](https://rahulkannan0784.github.io/Spotify-Clone-Music-Player/)
